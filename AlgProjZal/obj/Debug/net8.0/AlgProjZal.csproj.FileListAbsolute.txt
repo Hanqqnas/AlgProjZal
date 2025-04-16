@@ -1,0 +1,17 @@
+C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\bin\Debug\net8.0\AlgProjZal.exe
+C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\bin\Debug\net8.0\AlgProjZal.deps.json
+C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\bin\Debug\net8.0\AlgProjZal.runtimeconfig.json
+C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\bin\Debug\net8.0\AlgProjZal.dll
+C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\bin\Debug\net8.0\AlgProjZal.pdb
+C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\bin\Debug\net8.0\NCalc.dll
+C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\obj\Debug\net8.0\AlgProjZal.csproj.AssemblyReference.cache
+C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\obj\Debug\net8.0\AlgProjZal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\obj\Debug\net8.0\AlgProjZal.AssemblyInfoInputs.cache
+C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\obj\Debug\net8.0\AlgProjZal.AssemblyInfo.cs
+C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\obj\Debug\net8.0\AlgProjZal.csproj.CoreCompileInputs.cache
+C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\obj\Debug\net8.0\AlgProjZal.csproj.Up2Date
+C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\obj\Debug\net8.0\AlgProjZal.dll
+C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\obj\Debug\net8.0\refint\AlgProjZal.dll
+C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\obj\Debug\net8.0\AlgProjZal.pdb
+C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\obj\Debug\net8.0\AlgProjZal.genruntimeconfig.cache
+C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\obj\Debug\net8.0\ref\AlgProjZal.dll
