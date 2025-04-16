@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 
 class SitoEratostenesa
-{
+{ 
     public static void Run()
     {
         Console.Write("Podaj liczbę całkowitą większą niż 1: ");
