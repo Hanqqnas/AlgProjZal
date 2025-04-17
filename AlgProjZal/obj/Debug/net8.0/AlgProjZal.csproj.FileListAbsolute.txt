@@ -15,3 +15,4 @@ C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\obj\Debug\net8.0\refint\AlgPr
 C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\obj\Debug\net8.0\AlgProjZal.pdb
 C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\obj\Debug\net8.0\AlgProjZal.genruntimeconfig.cache
 C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\obj\Debug\net8.0\ref\AlgProjZal.dll
+C:\Users\48531\RiderProjects\AlgProjZal\AlgProjZal\obj\Debug\net8.0\AlgProjZal.sourcelink.json
