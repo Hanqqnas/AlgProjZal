@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlgProjZal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4505e6bf0aef3fc7e58163ed73ecbd01d6b88b1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57e8bd15b40a5e9618d1707871979540556d5064")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlgProjZal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlgProjZal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

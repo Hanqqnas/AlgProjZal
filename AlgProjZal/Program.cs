@@ -12,6 +12,7 @@ class Program
             Console.WriteLine("2. Wyznacznik macierzy");
             Console.WriteLine("3. Metoda Bisekcji");
             Console.WriteLine("4. Monte Carlo");
+            Console.WriteLine("5. Algorytm Ewolucyjny");
             Console.Write("Wybierz opcję: ");
 
             string wybor = Console.ReadLine();
@@ -29,6 +30,9 @@ class Program
                     break;
                 case "4":
                     MonteCarlo.Run();
+                    break;
+                case "5":
+                    AlgorytmEwolucyjny.Run();
                     break;
                 default:
                     Console.WriteLine("Nieprawidłowa opcja.");
